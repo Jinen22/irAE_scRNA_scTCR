@@ -11,10 +11,8 @@ Immune checkpoint blockade-induced immune-related adverse events (irAEs) hamper 
 
 ## Data Availability
 
-The processed single-cell RNA-seq data reported in this study have been deposited in the **OMIX** database (China National Center for Bioinformation) under accession number **OMIX008845** and are publicly available at [https://ngdc.cncb.ac.cn/omix](https://ngdc.cncb.ac.cn/omix).  
+The processed single-cell RNA-seq data reported in this study have been deposited in the **OMIX** database (China National Center for Bioinformation) under accession number **OMIX016674** and are publicly available at [https://ngdc.cncb.ac.cn/omix](https://ngdc.cncb.ac.cn/omix).  
 Raw FASTQ files generated in this study have been deposited in the **Genome Sequence Archive (GSA)** at the **National Genomics Data Center (NGDC)** under BioProject accession **PRJCA035557** (scRNA-seq: CRA040650; scTCR-seq: CRA041426) and are publicly accessible at [https://ngdc.cncb.ac.cn/gsa](https://ngdc.cncb.ac.cn/gsa).  
-Publicly available single-cell RNA-seq data used in this study can be obtained from the **GEO** database under accession numbers **GSE269936**, **GSE144469**, and **GSE228597**.  
-All other raw data generated in this study are available upon request from the corresponding author.
 
 ## Code Availability
 
