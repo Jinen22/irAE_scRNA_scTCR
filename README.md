@@ -41,15 +41,16 @@ You can install all required packages by running:
 
 ```r
 install.packages(c("Seurat", "ggplot2", "dplyr", "patchwork", "ggsci", "ggpubr", "reshape2"))
-
+```
 Note: Some packages may require additional system dependencies (e.g., hdf5r, SeuratObject). Please refer to the official documentation of each package for installation instructions.
 
 
 How to Run
+```
 Clone this repository
 git clone https://github.com/YourUsername/YourRepo.git
 cd YourRepo
-
+```
 Download the input data
 
 Download the processed Seurat object (Mouse_anit-PD1_irAEs_scRNA_immune_cell_label.rds) from the OMIX database (accession OMIX008845) or directly from the source provided in the data availability statement.
