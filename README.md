@@ -64,10 +64,10 @@ Execute Figure_2.R entirely or section by section. All output figures (PDFs) wil
 
 For other analysis scripts, follow the same procedure – ensure the required data files are present in the data/ folder before running them.
 
-Citation
+### Citation
 If you use the data or code from this repository, please cite our manuscript:
 
-[Authors]. (2026). Distinct Inflammatory Cytotoxic T Lymphocyte Populations Mediate PD-1 Blockade Induced Immune-Related Adverse Events in Multiple Organs. Cancer Research. DOI: [to be added]
+Liu, Xiaowei, et al. "Distinct Inflammatory Cytotoxic T Lymphocyte Populations Mediate PD-1 Blockade Induced Immune-Related Adverse Events in Multiple Organs." Cancer Research (2026).
 
 Contact
 For questions regarding the code, please open an issue in this repository or contact the corresponding author at [email address].
